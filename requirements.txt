@@ -20,7 +20,7 @@ PySocks==1.7.1
 pytest==7.1.2
 python-dotenv==0.20.0
 requests==2.27.1
-selene @ file:///Users/a18980620/PythonProject/qaguru-python/selene-2.0.0b4.tar.gz
+selene==2.0.0b4
 selenium==4.2.0
 six==1.16.0
 sniffio==1.2.0
